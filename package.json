@@ -1,7 +1,7 @@
 {
   "name": "repro-netlify-functions-plugin",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "repro-netlify-functions-plugin",
   "author": "Fred Carlsen",
   "keywords": [
@@ -20,6 +20,6 @@
     "react-dom": "^17.0.1"
   },
   "devDependencies": {
-    "gatsby-plugin-netlify": "^5.0.0"
+    "gatsby-plugin-netlify": "^4.3.1"
   }
 }
