@@ -1,0 +1,22 @@
+{
+  "name": "debug-netlify-functions-plugin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "debug-netlify-functions-plugin",
+  "author": "Fred Carlsen",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.15.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
